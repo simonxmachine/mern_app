@@ -180,6 +180,10 @@ function App() {
         <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
           Click here to open Google
         </a>
+
+        <a href="https://www.yahoo.com" target="_blank" rel="noopener noreferrer">
+          Click here to open Yahoo
+        </a>
       </div>
     </div>
   );
