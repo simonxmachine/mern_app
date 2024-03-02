@@ -177,6 +177,9 @@ function App() {
             Buy Now
           </button>
         </form>
+        <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+          Click here to open Google
+        </a>
       </div>
     </div>
   );
