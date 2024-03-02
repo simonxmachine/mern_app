@@ -163,8 +163,18 @@ function App() {
             Register
           </button>
           <p>Already Have an Account</p>
-          <button className="btn btn-default border w-100 bg-light rounded-0 text-decoration-none">
+          <button id="login-button" className="btn btn-default border w-100 bg-light rounded-0 text-decoration-none">
             Login
+          </button>
+          <br />
+          <br />
+          <button id="exit-button" className="btn btn-default border w-100 bg-light rounded-0 text-decoration-none">
+            Exit
+          </button>
+          <br />
+          <br />
+          <button id="buy-button" className="btn btn-default border w-100 bg-light rounded-0 text-decoration-none">
+            Buy Now
           </button>
         </form>
       </div>

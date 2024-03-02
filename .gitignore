@@ -1,2 +1,5 @@
 mern_app/server/node_modules
 /mern_app/server/node_modules
+.DS_Store
+/frontend/.DS_Store
+/.DS_Store
